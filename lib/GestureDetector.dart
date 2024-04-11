@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+// bo tab krdin lasar sht aw wigeit ka akata sary atwani tab bkait
 void main() {
   runApp(MyApp());
 }
@@ -22,7 +22,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Center(child: Text('GridView Example')),
+          title: Center(child: Text('gesturedetector')),
           backgroundColor: Colors.blue,
 
         ),
